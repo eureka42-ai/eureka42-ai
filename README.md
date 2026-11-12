@@ -5,6 +5,10 @@
 <h1 align="center">Do insight ao código.</h1>
 
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=rust,ts,react,tauri,vite,sqlite,css,git,githubactions&theme=dark" alt="Stack Eureka42">
+</p>
+
+<p align="center">
   <strong>Eureka42</strong> é um framework e uma comunidade sobre IA — <b>local-first</b>,
   código aberto e sem clichê. Nada de cérebros, robôs ou degradê roxo-azul:
   só engenharia de verdade, demonstrável e documentada.
